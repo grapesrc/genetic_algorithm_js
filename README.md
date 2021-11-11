@@ -1,0 +1,2 @@
+# genetic_algorithm_js
+遺伝的アルゴリズムを自分で作ってみたやつ
